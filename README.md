@@ -32,6 +32,7 @@
 - Handling command line arguments in Python.
 - Practice exercises and examples:
   - Example: Developing a Python script that accepts command line arguments to customize DevOps automation tasks.
+i am making changwes
 
 ## Day 6: Operators
 - Introduction to operators in Python.
